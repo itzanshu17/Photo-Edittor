@@ -1,0 +1,39 @@
+Nightowl Photo Editor
+
+This is a simple photo editor application created using Python and Tkinter. 
+It allows users to adjust the brightness, contrast, and blur of images, as well as rotate, flip, and add borders to them.
+
+Features:
+
+Adjust brightness, contrast, and blur
+Rotate and flip images
+Add borders to images
+Save edited images
+Instructions:
+
+Click the "Select Image" button to open an image file.
+Use the sliders to adjust the brightness, contrast, and blur of the image.
+Use the combo boxes to rotate, flip, and add borders to the image.
+Click the "Save" button to save the edited image to a new file.
+Example:
+
+To blur an image:
+
+Open an image file.
+Move the "Blur" slider to the desired level.
+Click the "Save" button to save the blurred image to a new file.
+Requirements:
+
+Python 3.6+
+Tkinter
+Pillow
+Installation:
+
+To install the Nightowl Photo Editor, simply download the code and run the following command:
+
+python main.py
+Usage:
+
+To use the Nightowl Photo Editor, simply run the main.py file. 
+This will open the application window. You can then select an image file to edit and adjust the settings to your liking. 
+Once you are finished editing the image, you can save it to a new file by clicking the "Save" button.
